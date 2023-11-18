@@ -3,7 +3,7 @@ marp: true
 theme: plain-theme
 ---
 
-# Competitive Programming
+# Coding
 
 Learn the fun way
 
@@ -103,7 +103,7 @@ Why do we code these problems?
 
 ---
 
-No, because it's **fun!**
+No, but it's **fun!**
 
 ---
 
@@ -146,7 +146,7 @@ names = set(names)
 
 ---
 
-If we now `set` data structure,
+If we know `set` data structure,
 we can simplify the way we solve
 
 ---
@@ -202,7 +202,7 @@ for name in names:
 
 ---
 
-If we now `hashmap` data structure,
+If we know `hashmap` data structure,
 we can simplify the way we solve
 
 ---
@@ -254,12 +254,12 @@ for _ in range(10):
 
 ---
 
-This is `O(n log k)`! `k` is 10
+This is `O(n log k)`! `k` here is 10
 Faster than `O(n log n)` if `n` is large
 
 ---
 
-If we now `heap` data structure...
+If we know `heap` data structure...
 ...ok you get the point
 
 ---
@@ -397,7 +397,7 @@ class Node:
 
 ---
 
-### What is real life application?
+### What are real life applications?
 
 - It can be used to implement a `map` data structure
 - We can build simple database index with it
@@ -405,8 +405,7 @@ class Node:
 
 ---
 
----
-
+Another example
 ![Card](https://upload.wikimedia.org/wikipedia/commons/f/f6/Poker_Solitaire.jpg)
 
 ---
@@ -415,11 +414,65 @@ How do you sort it?
 
 ---
 
+![insertion-sort](https://upload.wikimedia.org/wikipedia/commons/9/9c/Insertion-sort-example.gif?20110309111239)
+
+---
+
+That's insertion sort, this should be executable by child
+
+---
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/Merge-sort-example-300px.gif" width=500px/>
+
+---
+
+<img width=500px src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Merge_sort_animation.gif"/>
+
+---
+
+That's merge sort...
+
+If you really understand it,
+you have to be able to explain it to a 8 year old
+
+---
+
+### So...
+
+- What is that?
+- What is its power? What problem it solve?
+- Build intuition how it work
+- How to build it?
+- What is real life application?
+
+---
+
+### Pen and Paper Execution
+
+**Only if** you can execute the algorithm in paper,
+using only hands and pens,
+you have understood it
+
+---
+
 # Tips #3: Build intuition
 
 ---
 
-<!-- card picture -->
+---
+
+We can also build intuition by visualizing it
+
+---
+
+https://visualgo.net/
+
+<img src="visualgo.png" width="100%"/>
+<img style="padding-top: 20px" src="visualgo-2.png" width="100%"/>
+
+---
+
+<iframe width="800" height="500" src="https://www.youtube.com/embed/kPRA0W1kECg?si=Q1XhdTcC4VRkW5Be" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 
@@ -427,7 +480,66 @@ How do you sort it?
 
 ---
 
+---
+
+You can't be a doctor just by reading a book.
+You have to practice!
+
+---
+
+## Structured practice ftw
+
+<img src="mts.png" width="800px">
+
+<small>https://cpbook.net/methodstosolve</small>
+
+---
+
+## ChatGPT as your tutor
+
+You can now ask ChatGPT to give you hint
+...or even give answer :P
+
+---
+
+<img src="chatgpt.png" width="100%"/>
+
+---
+
+## Consistency
+
+Try to practice everyday,
+...or every 2 days
+...or every week
+
+Don't break the strike
+
+---
+
 # Tips #5: Practice
+
+---
+
+---
+
+## What motivate us?
+
+---
+
+## Goal
+
+---
+
+### CP is competitive by nature
+
+<img width="100%" src="leaderboard.png">
+
+https://open.kattis.com/countries/IDN
+
+---
+
+Invite your friend to compete/learn with you
+You will grow together :)
 
 ---
 
@@ -435,6 +547,19 @@ How do you sort it?
 
 ---
 
-```
+---
 
-```
+# Conclusion
+
+1. Learn Data Structures
+2. Be familiar with standard lib
+3. Build intuition
+4. Visualize
+5. Practice
+6. Compete!
+
+---
+
+# Thank you
+
+Have fun :)
