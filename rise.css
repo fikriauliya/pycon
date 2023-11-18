@@ -1,0 +1,4 @@
+.rendered_html img {
+    max-height: 75vh;
+    width: auto;
+}
