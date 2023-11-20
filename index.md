@@ -75,12 +75,6 @@ Competitive Programming is a **mind sport**, involving participants trying to pr
 
 ---
 
-### Math
-
-![Math](https://i.stack.imgur.com/JAIBG.png)
-
----
-
 Why do we solve these problems?
 Because **it's fun!**
 
